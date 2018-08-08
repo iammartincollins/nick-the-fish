@@ -3,6 +3,8 @@
 // Import a Google Font
 @import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
 
+$primary: #71c3d2;
+
 // // Set your brand colors
 // $purple: #8A4D76;
 // $pink: #FA7C91;
@@ -39,4 +41,3 @@ $footer-background-color: #222;
 // @import "../../node_modules/bulma/sass/layout/section.sass";
 
 @import "page";
-@import "footer";
