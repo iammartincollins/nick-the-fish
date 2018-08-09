@@ -4,7 +4,11 @@ body {
 
 .page-header {
     text-align: center;
-    padding: 50px;
+    padding: 50px 50px 55px;
+
+    .site-logo {
+        margin-bottom: 50px;
+    }
 }
 
 .section-light {
@@ -12,7 +16,7 @@ body {
 }
 
 .contact-block {
-    padding: 20px 100px;
+    padding: 30px 100px 40px;
 }
 
 .has-background-primary {
