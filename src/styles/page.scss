@@ -12,6 +12,12 @@ body {
 }
 
 .contact-block {
-    padding: 20px;
-    margin: 0 100px; //TODO: hack, use css framework to do left and right spacing
+    padding: 20px 100px;
+}
+
+.has-background-primary {
+    a {
+        color: #fff;
+        text-decoration: underline;
+    }
 }
