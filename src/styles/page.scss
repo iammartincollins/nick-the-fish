@@ -17,6 +17,11 @@ body {
 
 .contact-block {
     padding: 30px 100px 40px;
+
+    @include mobile {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
 }
 
 .has-background-primary {

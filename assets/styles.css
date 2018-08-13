@@ -5988,6 +5988,10 @@ body {
 
 .contact-block {
   padding: 30px 100px 40px; }
+  @media screen and (max-width: 768px) {
+    .contact-block {
+      padding-left: 10px;
+      padding-right: 10px; } }
 
 .has-background-primary a {
   color: #fff;
